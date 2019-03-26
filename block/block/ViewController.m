@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    //ceshi
 
     //__NSGlobalBlock__ 全局区的 (没有引用外部变量)
     void (^DemoBlock)() = ^{
